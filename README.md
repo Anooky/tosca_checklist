@@ -51,6 +51,7 @@
  - [ ]    Remove all dependencies to uncontrollable factors (time of day, weather, external services) that can be removed.
  - [ ]    Remove all dependencies to other test cases, if possible.
  - [ ]    Test data generation happens outside, in a separate test case (= not as part of the precondition).
+ - [ ]    No Folders or TestSteps are deactivated.
 
 # Execution Lists
  - [ ]    The test cases on an execution list are distributed on test mandates to split the workload on DEX agents.
